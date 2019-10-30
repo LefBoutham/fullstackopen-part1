@@ -1,3 +1,5 @@
 # fullstackopen-part1
 
-I've added individual code files to represent each task. In the last exercise, I've uploaded the whole app.
+Kurssitiedot folder includes exercises 1.1 and 1.2. 
+
+In the last exercise, I've uploaded the whole app.
